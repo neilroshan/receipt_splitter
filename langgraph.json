@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "graph": "./receipt_agent/agent.py:graph"
+    },
+    "env": ".env"
+}
